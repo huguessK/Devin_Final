@@ -1,0 +1,25 @@
+Votre personnage est-il fictif ?
+Votre personnage est-il humain ?
+Votre personnage est-il vivant ?
+Votre personnage est-il mort depuis longtemps (+100ans) ?
+Votre personnage est-il une femme ?
+Votre personnage est-il de type caucasien ?
+Votre personnage est-il de type asiatique ?
+Votre personnage est-il célèbre ?
+Votre personnage est-il jeune (-35ans) ?
+Votre personnage est-il grand (+1,85m) ?
+Votre personnage est-il petit (-1,65m) ?
+Votre personnage est-il de corpulence forte (90kg<poids) ?
+Votre personnage est-il de corpulence faible (poids<60kg) ?
+Votre personnage a-t-il les cheveux longs ?
+Votre personnage est-il blond ?
+Votre personnage est-il brun ?
+Votre personnage a-t-il les yeux bleus ?
+Votre personnage a-t-il les yeux marrons ?
+Votre personnage pratique-t-il une profession artistique ?
+Votre personnage fait-il parti du monde politique ?
+Votre personnage est-il sportif ?
+Votre personnage est-il francais ?
+Votre personnage est il roux ?
+Votre personnage a t il des lunettes?
+
